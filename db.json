@@ -1,0 +1,12 @@
+{
+  "employee": [
+    {
+      "id": "49",
+      "fname": "syed",
+      "email": "nazar@gmail.com",
+      "password": "123456789",
+      "cpassword": "123456789",
+      "city": "Mumbai"
+    }
+  ]
+}
